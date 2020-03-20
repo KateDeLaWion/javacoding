@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="934417cd-7d3d-4075-b47d-77d314b50155" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javatest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMFLlSj7EzIbjHeLpUzqkbyqd5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.TwoInputsProduct">
+    <configuration name="CharEg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharEg" />
+      <module name="area" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleCrash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleCrash" />
+      <module name="area" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleEg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleEg" />
+      <module name="area" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortEg (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortEg" />
+      <module name="area" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoInputsProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoInputsProduct" />
+      <module name="area" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoInputsProduct" />
+        <item itemvalue="Application.CharEg" />
+        <item itemvalue="Application.DoubleCrash" />
+        <item itemvalue="Application.DoubleEg" />
+        <item itemvalue="Application.ShortEg (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="934417cd-7d3d-4075-b47d-77d314b50155" name="Default Changelist" comment="" />
+      <created>1584641004439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584641004439</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584642330997">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="211" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1584642330996" />
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom" timestamp="1584657881710">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1584646640028" />
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1584657699022" />
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1584657881710" />
+    <state width="1253" height="190" key="GridCell.Tab.0.center" timestamp="1584657881708">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1253" height="190" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1584646640027" />
+    <state width="1253" height="190" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1584657699021" />
+    <state width="1253" height="190" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1584657881708" />
+    <state width="1253" height="190" key="GridCell.Tab.0.left" timestamp="1584657881707">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1253" height="190" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1584646640027" />
+    <state width="1253" height="190" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1584657699020" />
+    <state width="1253" height="190" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1584657881707" />
+    <state width="1253" height="190" key="GridCell.Tab.0.right" timestamp="1584657881709">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1253" height="190" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1584646640028" />
+    <state width="1253" height="190" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1584657699021" />
+    <state width="1253" height="190" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1584657881709" />
+    <state x="130" y="23" width="1141" height="803" key="SettingsEditor" timestamp="1584657542332">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="130" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1584642114252" />
+    <state x="130" y="23" width="1141" height="803" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1584657542332" />
+    <state x="413" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1584641017601">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="413" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1584641017601" />
+    <state x="118" y="23" key="new project wizard" timestamp="1584643518882">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="118" y="23" key="new project wizard/0.23.1440.812@0.23.1440.812" timestamp="1584643518882" />
+    <state x="390" y="180" key="run.anything.popup" timestamp="1584642124435">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="390" y="180" key="run.anything.popup/0.23.1440.811@0.23.1440.811" timestamp="1584642124435" />
+  </component>
+</project>
